@@ -8,9 +8,6 @@ public class Main {
         int n, g, a, b, ag, bg, a_abg, b_abg;
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("");
-        n = 1;
-
         System.out.println("Enter modulo - p:");
         n = sc.nextInt();
 
